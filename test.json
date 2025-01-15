@@ -145,4 +145,18 @@
   },
   {
     "id": 19,
-   
+    "name": "Smart Essentials",
+    "brand": "TechTime",
+    "price": 249.99,
+    "material": "Rubber",
+    "waterResistance": "100m"
+  },
+  {
+    "id": 20,
+    "name": "Ceramic Beauty",
+    "brand": "PureForm",
+    "price": 329.99,
+    "material": "Ceramic",
+    "waterResistance": "50m"
+  }
+]
