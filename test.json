@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Silver",
+    "brand": "Timeless",
+    "price": 99.99,
+    "material": "Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "id": 2,
+    "name": "Sporty Blue",
+    "brand": "ActiveGear",
+    "price": 149.99,
+    "material": "Silicone",
+    "waterResistance": "100m"
+  },
+  {
+    "id": 3,
+    "name": "Elegant Gold",
+    "brand": "Prestige",
+    "price": 299.99,
+    "material": "Gold-Plated Stainless Steel",
+    "waterResistance": "30m"
+  },
+  {
+    "id": 4,
+    "name": "Digital Pro",
+    "brand": "TechTime",
+    "price": 79.99,
+    "material": "Plastic",
+    "waterResistance": "200m"
+  },
+  {
+    "id": 5,
+    "name": "Leather Charm",
+    "brand": "Heritage",
+    "price": 129.99,
+    "material": "Leather",
+    "waterResistance": "50m"
+  },
+  {
+    "id": 6,
+    "name": "Chrono Black",
+    "brand": "Performance",
+    "price": 199.99,
+    "material": "Stainless Steel",
+    "waterResistance": "100m"
+  },
+  {
+    "id": 7,
+    "name": "Minimalist White",
+    "brand": "Simplicity",
+    "price": 89.99,
+    "material": "Stainless Steel",
+    "waterResistance": "30m"
+  },
+  {
+    "id": 8,
+    "name": "Luxury Rose",
+    "brand": "Elegance",
+    "price": 349.99,
+    "material": "Rose Gold-Plated Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "id": 9,
+    "name": "Adventure Green",
+    "brand": "Trailblazer",
+    "price": 159.99,
+    "material": "Rubber",
+    "waterResistance": "200m"
+  },
+  {
+    "id": 10,
+    "name": "Retro Brown",
+    "brand": "VintageTime",
+    "price": 119.99,
+    "material": "Leather",
+    "waterResistance": "30m"
+  },
+  {
+    "id": 11,
+    "name": "Steel Bold",
+    "brand": "Fortress",
+    "price": 189.99,
+    "material": "Stainless Steel",
+    "waterResistance": "100m"
+  },
+  {
+    "id": 12,
+    "name": "Solar Eco",
+    "brand": "GreenWatch",
+    "price": 249.99,
+    "material": "Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "id": 13,
+    "name": "Classic Black",
+    "brand": "Timeless",
+    "price": 109.99,
+    "material": "Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "id": 14,
+    "name": "Digital Basic",
+    "brand": "TechTime",
+    "price": 59.99,
+    "material": "Plastic",
+    "waterResistance": "100m"
+  },
+  {
+    "id": 15,
+    "name": "Diver's Choice",
+    "brand": "AquaPro",
+    "price": 299.99,
+    "material": "Stainless Steel",
+    "waterResistance": "300m"
+  },
+  {
+    "id": 16,
+    "name": "Field Watch",
+    "brand": "Explorer",
+    "price": 179.99,
+    "material": "Canvas",
+    "waterResistance": "100m"
+  },
+  {
+    "id": 17,
+    "name": "Gold Luxe",
+    "brand": "Prestige",
+    "price": 399.99,
+    "material": "Gold-Plated Stainless Steel",
+    "waterResistance": "30m"
+  },
+  {
+    "id": 18,
+    "name": "Fitness Tracker",
+    "brand": "FitTech",
+    "price": 129.99,
+    "material": "Silicone",
+    "waterResistance": "50m"
+  },
+  {
+    "id": 19,
+   
